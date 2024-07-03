@@ -3,7 +3,11 @@ A object detection application for single mouse videos feeds based on thresholdi
 
 ## How to run HueMouse
 
-To run type: 
-    python mouseHSV.py --input video.mov --algo MOG2
-or:    
-    python mouseHSV.py --input video.mov --algo KNN
+To run HueMouse type in terminal:
+```
+python mouseHSV.py --input video.mov --algo MOG2
+```
+or:
+```
+python mouseHSV.py --input video.mov --algo KNN
+```
